@@ -1,0 +1,78 @@
+.canvas {
+    width: 960px;
+    margin: 10px auto;
+  border:2px solid black;
+}
+.text{
+   text-align: center;
+   font-size:1.5em;
+}
+
+h1 {
+    text-align: center;
+    font-weight: 100;
+    color: #333;
+}
+.buttons {
+    float: right;
+}
+section {
+    overflow: hidden;
+    min-height: 170px;
+}
+ul {
+    margin: 0;
+    padding: 0;
+}
+ul li {
+    list-style: none;
+    padding: 0.4em 0.9em;
+    margin: 0px -3px;
+    font-size: 6em;
+    display: inline-block;
+    color: #fff;
+    font-weight: 100;
+}
+.box1{
+  background-color:orange;
+}
+.box2{
+  background-color:purple;
+}
+.box3{
+  background-color:blue;
+}
+.box4{
+  background-color:gray;
+}
+.box5{
+  background-color:yellow;
+}
+.box6{
+  background-color:orange;
+}
+.box7{
+  background-color:green;
+}
+.box8{
+  background-color:gray;
+}
+.box9{
+  background-color:brown;
+}
+footer {
+    font-size: 0.8em;
+    text-align: center;
+    color: #333;
+    padding: 5px;
+}
+.shuffle{
+  background-color:blue;
+  color:white;
+  width:60px;
+}
+.sort{
+  background-color:blue;
+  color:white;
+  width:60px;
+}
